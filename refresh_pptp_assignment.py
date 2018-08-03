@@ -21,8 +21,8 @@ def init_log(name):
 
 def load_server_info():
     info = {}
-#    file_path = "%s/data/pptp/configs/ipduoduo_servers.txt" % sys.path[0]
-    file_path = "%s/data/pptp/configs/bzy_servers.txt" % sys.path[0]
+    file_path = "%s/data/pptp/configs/ipduoduo_servers.txt" % sys.path[0]
+    # file_path = "%s/data/pptp/configs/bzy_servers.txt" % sys.path[0]
     try:
         fd = open(file_path)
         if fd:
