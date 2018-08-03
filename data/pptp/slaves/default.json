@@ -1,0 +1,500 @@
+{
+  "95D1E8BB-78A6-40E0-91D0-94F2E70FA047": {
+    "username": "gm73", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "8826B74E-F196-495F-94F7-5E98AD3320F1": {
+    "username": "gm64", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "3811F965-7C41-485A-929D-6F6AEFA8C65A": {
+    "username": "gm03", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "122017FD-5E73-48BE-9E7B-9BA23C33620B": {
+    "username": "gm63", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "8774C7DF-6E49-4DD0-9B80-DFF39A809683": {
+    "username": "gm14", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "00672F1E-C726-4099-9340-1E46A4F212DD": {
+    "username": "gm75", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "C1823DF9-91D4-4AE1-A065-4B9CB2DA0DCC": {
+    "username": "gm42", 
+    "password": "111", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "823E4EA1-2975-4C3C-BC7D-26A97FAEB212": {
+    "username": "gm10", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "59EB78A5-59E2-46BA-BF3D-6B0851A1D4F1": {
+    "username": "gm29", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "B973721C-2534-4C66-9EF4-081701349423": {
+    "username": "gm02", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "00CE1890-6516-4962-8789-2D242849D02F": {
+    "username": "gm57", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "10B715C4-B188-41F5-8677-10EE744FD4E6": {
+    "username": "gm36", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "1B4C4CD0-4051-44C7-BD0A-7972F5450259": {
+    "username": "gm70", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "B37B17DE-3C68-4912-9EA8-A87A73C9F1B6": {
+    "username": "gm39", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "A3023AFE-279D-4459-A093-C48011EEF96A": {
+    "username": "gm18", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "960EA3DF-A5E3-4530-961D-04F3F32DA4E4": {
+    "username": "gm77", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "88C4E0BE-3589-4C6A-A9B5-294EFBDB4D0A": {
+    "username": "gm07", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "94DE068D-86A9-4C33-ADC9-2CD2E423CC55": {
+    "username": "gm89", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "02920D00-0C91-4F2A-80ED-3127053ABA18": {
+    "username": "gm21", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "5B055D23-BDF5-49C2-BFF1-31E74D056FE2": {
+    "username": "gm43", 
+    "password": "111", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "6BAD3862-351F-4D8E-BD31-211466B66095": {
+    "username": "gm86", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "B2746C85-DA88-4B43-84A8-5255BF18D823": {
+    "username": "gm17", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "8C2E3DF4-55AF-4B58-AC6E-F908DB71C657": {
+    "username": "gm26", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "79660893-BE30-4080-B2ED-C5B9A1206E9B": {
+    "username": "gm79", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "0B025701-5F1C-465A-A926-F9F27A20BECD": {
+    "username": "gm25", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "3E8817E5-75C9-41E2-A380-4C9CDE82B929": {
+    "username": "gm65", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "5437FEEA-335C-40D6-837C-93685F236118": {
+    "username": "gm60", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "5F9CB219-56CB-424E-A648-915974861B72": {
+    "username": "gm27", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "D8474609-9EDD-4D06-8ED1-ECF587DC9B3D": {
+    "username": "gm22", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "EC691538-E26B-465C-BF38-571614E1CDFE": {
+    "username": "gm08", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "F4004F2F-D8C8-4CC3-887F-91A2E409C43D": {
+    "username": "gm20", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "9EA7D6F2-1472-4075-B0AB-0E6924D84A81": {
+    "username": "gm35", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "3926CFBA-01D2-4AB6-8CF2-80CDBAB3B3D3": {
+    "username": "gm19", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "F5F3E921-4D93-459A-9663-985462999611": {
+    "username": "gm01", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "3CE3A6DF-9E68-4676-BFD2-C71F65206633": {
+    "username": "gm90", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "562EAEA2-B745-4080-BA17-E5A54AB9CA4E": {
+    "username": "gm83", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "698FD837-9412-439F-A374-4EBB313F358B": {
+    "username": "gm09", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "312C5AE6-2688-4969-8144-CFCEB41FA452": {
+    "username": "gm40", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "F5B0D154-C1B3-4BD4-8E44-75901F8F6438": {
+    "username": "gm54", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "E7B22757-FC15-45D8-87CC-FFC1AEE63262": {
+    "username": "gm82", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "27F74778-220F-4A5A-AAD8-5DF97FC42C82": {
+    "username": "gm81", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "EAF46693-9AA8-4947-BB42-DCBB4D9C3B1E": {
+    "username": "gm16", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "81BD416C-85F3-4098-B3A5-ACFAD9ECF788": {
+    "username": "gm06", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "6A0C8343-BEDA-4F29-AAE4-9315A606CFB4": {
+    "username": "gm24", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "9EB7EF8F-38C8-4805-AFEA-6190A21BCAC8": {
+    "username": "gm52", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "AE1A7A4F-D2E6-4C1D-8B01-CAA97AA542F9": {
+    "username": "gm11", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "732A5E25-2C83-400D-9EEA-BB89CF108450": {
+    "username": "gm37", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "FCBBF564-5B3B-4216-8EE6-0DB40B7324BC": {
+    "username": "gm88", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "E2A371D9-F76B-4589-B225-CC95A8A7601E": {
+    "username": "gm13", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "8BD2CBE6-6E6D-4A64-B67B-D98DC26ECF6E": {
+    "username": "gm74", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "964DB62B-9390-4C80-8151-BB025EC71B94": {
+    "username": "gm53", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "E9E2FDD2-F1E1-47DA-ACC0-9CBB2676FBB7": {
+    "username": "gm56", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "2B452ADC-EF6E-4AA8-BB6F-7DFA72D75E74": {
+    "username": "gm84", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "032FBFAD-ED8C-4BA4-8908-0A7A84767F2C": {
+    "username": "gm33", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "9C2A9490-CBA7-428C-9F1B-FCD3AD2BDFE4": {
+    "username": "gm12", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "A249A60E-D936-40F9-A563-C79A962F6018": {
+    "username": "gm71", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "7309E7B7-8787-4EBD-9D5B-19051086E77D": {
+    "username": "gm28", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "F75FE84B-BE09-4C1A-82C7-9FBA85CB8A51": {
+    "username": "gm66", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "CD0E2831-D816-4621-B1F6-0F243104F496": {
+    "username": "gm23", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "8E20E6A2-B7C5-4F6E-B7DF-49CC43D42F7F": {
+    "username": "gm55", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "BED898A0-2E4C-4A13-B16F-B59C0241A7D1": {
+    "username": "gm15", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "D65C9B49-854D-4DC9-B0AD-9E4C2D994FE2": {
+    "username": "gm68", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "6C0AEF5E-BADE-47C5-970E-F4DEBCD8C6AE": {
+    "username": "gm32", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "B22186A4-863F-4A40-AD60-21066CAED022": {
+    "username": "gm31", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "945916C6-0365-4CFE-A42C-67A22F5A01E4": {
+    "username": "gm80", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "37636379-7D7F-49F5-A251-1E6CC9907525": {
+    "username": "gm58", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "6C2D4567-4231-4009-9298-B154765CF22C": {
+    "username": "gm05", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "7EBC3AD9-706B-43D1-83D3-2DAD7BE7B775": {
+    "username": "gm04", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "65E4CE1A-CC37-424C-A327-88BB7921E5F8": {
+    "username": "gm38", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "4CF3A400-0B80-4634-AD47-5F2AB4E8BFC6": {
+    "username": "gm76", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "4986A3E5-D209-4937-B9A5-AE855D4B4C13": {
+    "username": "gm61", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }, 
+  "CD81EA44-2325-4470-A788-24871654443E": {
+    "username": "gm59", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "CEF4E1B9-8869-4F36-9335-ABCCDC583BC2": {
+    "username": "gm62", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "C7FDB8BE-8FC2-4917-BAA9-3148D2BB3691": {
+    "username": "gm78", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "02C6A9B9-3359-4F3C-84F7-B1F59B1572AD": {
+    "username": "gm72", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "6A5EC877-5C4B-43B3-A5F6-1785AB169D9D": {
+    "username": "gm30", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "CAB21FEE-A9F1-46B8-A6B8-11C7C8872C48": {
+    "username": "gm85", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "6BEBFAE8-4C6D-4438-957A-E1C25E595BAC": {
+    "username": "gm51", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "227BD3F0-5B90-4F3E-B897-67D21450AF41": {
+    "username": "gm34", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "95C2B251-04C1-4B70-8962-D60D2A515ECC": {
+    "username": "gm67", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "2AA90706-9CE7-459F-ADF3-A05220CE0173": {
+    "username": "gm87", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cnn.bzy.red"
+  }, 
+  "1679C5CA-9D29-49AD-8109-065CF78B3522": {
+    "username": "gm41", 
+    "password": "111", 
+    "mppe": 0, 
+    "server": "cn01.bzy.red"
+  }, 
+  "6428CC6F-9C88-4FC1-BB6E-1D52A9818E9D": {
+    "username": "gm69", 
+    "password": "666", 
+    "mppe": 0, 
+    "server": "cn02.bzy.red"
+  }
+}

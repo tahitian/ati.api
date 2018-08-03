@@ -1,0 +1,3 @@
+{"server": "cnn.bzy.red", "description": "全国混拨", "mppe": 0, "rate": 10, "enabled": 1}
+{"server": "cn01.bzy.red", "description": "全国混拨1", "mppe": 0, "rate": 10, "enabled": 1}
+{"server": "cn02.bzy.red", "description": "全国混拨2", "mppe": 0, "rate": 10, "enabled": 1}
